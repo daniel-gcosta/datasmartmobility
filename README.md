@@ -4,8 +4,10 @@ Este curso está focado no processamento e na visualização de dados urbanos qu
 
 Este curso é centrado na escrita de código (programação) e está organizado em diferentes partes. No geral, não é preciso conhecimentos avançados em nenhuma linguagem de programação ou recurso.
 
-**Parte 1 - Visualização de dados urbanos**
+**Parte 1 - Visualização de dados urbanos com OpenStreetMap**
 
-AQUI
+Link: https://colab.research.google.com/drive/1sgpc70mMG4A0rG5k6ja5AMtT6NViHtj1?usp=sharing
 
-**Parte 2 - **
+**Parte 2 - Manipualção de datasets de mobilidade**
+
+Link: 
