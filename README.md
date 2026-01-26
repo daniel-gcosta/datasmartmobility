@@ -11,11 +11,11 @@ Nesse sentido, o foco está em compreender **quais tipos** de dados existem, **c
 
 Ao longo desta parte, será utilizado o OpenStreetMap como uma importante fonte de dados geoespaciais. Serão estudadas diferentes formas de obtenção, exploração e uso desses dados, com o objetivo de identificar padrões de mobilidade, compreender a estrutura do sistema viário e reconhecer desafios urbanos relacionados ao deslocamento de pessoas e veículos. O uso de dados abertos permitirá analisar o território de forma integrada, apoiando diagnósticos e decisões em projetos de mobilidade inteligente. O foco será, portanto, na **visualização de dados**.
 
-_Link_: [https://colab.research.google.com/drive/1sgpc70mMG4A0rG5k6ja5AMtT6NViHtj1/copy](https://colab.research.google.com/drive/1sgpc70mMG4A0rG5k6ja5AMtT6NViHtj1/copy)
+_Link_: [https://colab.research.google.com/drive/1sgpc70mMG4A0rG5k6ja5AMtT6NViHtj1](https://colab.research.google.com/drive/1sgpc70mMG4A0rG5k6ja5AMtT6NViHtj1)
 
 --
 **Parte 2 - Manipualção de datasets de mobilidade**
 
 A análise de dados será abordada a partir da perspectiva de _Data Scienc_e, combinando diversos métodos para extrair conhecimento a partir de bases de dados de mobilidade. O curso fará uso de dados provenientes do Eurostat, permitindo contextualizar fenômenos de mobilidade em escalas regional e europeia, bem como comparar indicadores entre diferentes territórios. Além disso, serão introduzidos conceitos e aplicações de Inteligência Artificial, com foco no uso de algoritmos e modelos para apoiar a análise, a interpretação de padrões e a geração de insights a partir de grandes volumes de dados de mobilidade.
 
-_Link_: [https://colab.research.google.com/drive/1ugCT6pjCCRjWXzk7gyG6NjDCJbHoYJx5/copy](https://colab.research.google.com/drive/1ugCT6pjCCRjWXzk7gyG6NjDCJbHoYJx5/copy)
+_Link_: [https://colab.research.google.com/drive/1ugCT6pjCCRjWXzk7gyG6NjDCJbHoYJx5](https://colab.research.google.com/drive/1ugCT6pjCCRjWXzk7gyG6NjDCJbHoYJx5)
